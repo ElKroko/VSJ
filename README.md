@@ -1,2 +1,2 @@
 # VSJ
- Proyecto ISW
+ Proyecto ISW, implementado en Spring Boot
